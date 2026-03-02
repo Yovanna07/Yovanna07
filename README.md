@@ -20,10 +20,10 @@
 🌐 Encuéntrame en
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https:https://www.linkedin.com/in/yovanna-alvarez-9a8545138/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:yovanna.alvarez@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
