@@ -1,41 +1,36 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://cdn.vectorstock.com/i/500p/30/05/web-banner-development-software-and-ui-interface-vector-37813005.jpg" width="800" alt="banner de desarrolladora web Yovanna07"/>
-</p>
+👋 ¡Hola! Soy Yovanna
+💻 Full Stack Developer 
+Apasionada por el desarrollo web y la creación de soluciones funcionales, limpias y centradas en el usuario. Me encanta aprender, experimentar con nuevas tecnologías y enfrentar desafíos que me permitan crecer profesionalmente.
 
-<h1 align="center">👋 ¡Hola, soy Yovanna! 💻</h1>
+🚀 Sobre mí
 
-<p align="center">
- 💼 Software Developer
- 🎨 Me encanta combinar "Creatividad y Lógica" 
- ⚡ Fun fact: A veces mi código funciona... y no sé por qué, ¡pero lo celebro igual! 🎉 
-</p>
+Full Stack Developer Junior con experiencia práctica en proyectos web.
+Manejo de HTML5, CSS, JavaScript y Python.
+Enfocada en escribir código claro, escalable y bien estructurado.
+Me adapto rápido, disfruto trabajar en equipo y resolver problemas.
+Motivada por seguir aprendiendo y aportar valor en entornos dinámicos.
 
-🛠️ Tecnologías y Herramientas
+🛠️ Tecnologías y herramientas
+Aquí algunas de las herramientas que utilizo en mi día a día:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode," />
-</p>
+Frontend:
 
-🌐 Encuéntrame en
+HTML5
+CSS3
+JavaScript
+Backend:
+Python
 
-<p align="center">
-  <a href="https:https://www.linkedin.com/in/yovanna-alvarez-9a8545138/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yovanna.alvarez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
-  </a>
-</p>
+Otras herramientas:
 
----
+Git & GitHub
+Bootstrap
+Figma
 
-<p align="center">✨ Gracias por visitar mi perfil ✨</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-</p>
+📫 Cómo contactarme
+✉️ Email: yovanna.alvarez@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/yovanna-alvarez-9a8545138/
 
-<!--
-**Yovanna07/Yovanna07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+🎓 Educación
+Año: 2026 Full Stack Developer – 4Geeks Academy
+Año: 2012 Administracion de Empresas - Universidad Santa Maria
