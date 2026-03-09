@@ -1,5 +1,5 @@
 <!-- Banner superior -->
-<img src="https://th.bing.com/th/id/R.07cd98153868f96f142235a7dc4ccf21?rik=ikmZ7wPZK3ZyYQ&riu=http%3a%2f%2frefinementsoftwaresolutions.com%2fassets%2fimages%2fabout%2fbest-it-training-center-in-coimbatore.webp&ehk=yq2EzxoFs8kYXYNETtB5tGzCZbZijcZmO67eKZNLEFI%3d&risl=&pid=ImgRaw&r=0" width="100%" alt="professional banner" />
+<img src="https://llerosadreams.es/wp-content/uploads/2020/04/lenguajes-programacion.png" width="100%" alt="professional banner" />
 </p>
 
 # 👋 ¡Hola! Soy **Yovanna Alvarez**
