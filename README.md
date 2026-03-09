@@ -1,36 +1,54 @@
-👋 ¡Hola! Soy Yovanna
-💻 Full Stack Developer 
+<!-- Banner superior -->
+<img src="https://i.imgur.com/dX9X6zF.png" width="100%" />
+
+# 👋 ¡Hola! Soy **Yovanna Alvarez**
+### 💻 Full Stack Developer
+
 Apasionada por el desarrollo web y la creación de soluciones funcionales, limpias y centradas en el usuario. Me encanta aprender, experimentar con nuevas tecnologías y enfrentar desafíos que me permitan crecer profesionalmente.
 
-🚀 Sobre mí
+---
 
-Full Stack Developer Junior con experiencia práctica en proyectos web.
-Manejo de HTML5, CSS, JavaScript y Python.
-Enfocada en escribir código claro, escalable y bien estructurado.
-Me adapto rápido, disfruto trabajar en equipo y resolver problemas.
-Motivada por seguir aprendiendo y aportar valor en entornos dinámicos.
+## 🚀 Sobre mí
 
-🛠️ Tecnologías y herramientas
-Aquí algunas de las herramientas que utilizo en mi día a día:
+- Full Stack Developer Junior con experiencia práctica en proyectos web.  
+- Manejo de **HTML5, CSS, JavaScript y Python**.  
+- Enfocada en escribir código claro, escalable y bien estructurado.  
+- Me adapto rápido, disfruto trabajar en equipo y resolver problemas.  
+- Motivada por seguir aprendiendo y aportar valor en entornos dinámicos.
 
-Frontend:
+---
 
-HTML5
-CSS3
-JavaScript
-Backend:
-Python
+## 🛠️ Tecnologías y herramientas
 
-Otras herramientas:
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Git & GitHub
-Bootstrap
-Figma
+### **Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-📫 Cómo contactarme
-✉️ Email: yovanna.alvarez@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/yovanna-alvarez-9a8545138/
+### **Otras herramientas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-🎓 Educación
-Año: 2026 Full Stack Developer – 4Geeks Academy
-Año: 2012 Administracion de Empresas - Universidad Santa Maria
+---
+
+## 📫 Cómo contactarme
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yovanna.alvarez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovanna-alvarez-9a8545138/)
+
+---
+
+## 🎓 Educación
+
+- **2026** – Full Stack Developer – 4Geeks Academy  
+- **2012** – Administración de Empresas – Universidad Santa María  
+
+---
+
+<!-- Imagen decorativa inferior -->
+<img src="https://i.imgur.com/8fKQZ5C.png" width="100%" />
