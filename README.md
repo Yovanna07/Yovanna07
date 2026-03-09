@@ -1,5 +1,6 @@
 <!-- Banner superior -->
-<img src="https://i.imgur.com/dX9X6zF.png" width="100%" />
+<img src="https://i.imgur.com/0Z8FQ8Z.png" width="100%" alt="professional banner" />
+</p>
 
 # 👋 ¡Hola! Soy **Yovanna Alvarez**
 ### 💻 Full Stack Developer
@@ -48,7 +49,5 @@ Apasionada por el desarrollo web y la creación de soluciones funcionales, limpi
 - **2026** – Full Stack Developer – 4Geeks Academy  
 - **2012** – Administración de Empresas – Universidad Santa María  
 
----
 
-<!-- Imagen decorativa inferior -->
-<img src="https://i.imgur.com/8fKQZ5C.png" width="100%" />
+
